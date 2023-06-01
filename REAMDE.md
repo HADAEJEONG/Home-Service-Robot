@@ -5,7 +5,7 @@ This package loads the custom robot created via urdf into the world. Then, it lo
 
 2) Installation
 cd catkin_workspace/src
-git clone https://github.com/ethz-asl/ros_best_practices.git
+git clone https://github.com/HADAEJEONG/Home-service-robot
 cd ../
 rosdep install --from-paths . --ignore-src
 catkin_make
